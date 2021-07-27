@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "twitter": "^1.7.1"
+  }
+}
